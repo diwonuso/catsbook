@@ -7,7 +7,8 @@ function Navbar() {
             <div>Профиль</div>
             <div>Сообщения</div>
             <div>Новости</div>
-
+            <div>Настройки</div>
+            <div>Музыка</div>
         </nav>
     );
 }
